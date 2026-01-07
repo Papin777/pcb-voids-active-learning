@@ -1,0 +1,37 @@
+# Environnements
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git/
+
+# Données
+data/raw/
+data/processed/
+data/corrections/
+
+# Modèles & entraînements
+models/runs/
+models/**/weights/
+*.pt
+*.pth
+
+# Fichiers générés
+*.csv
+*.zip
+
+# Logs
+*.log
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db

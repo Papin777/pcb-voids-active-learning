@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnements
+venv/
+.venv/
+
+# Données & sorties
+data/raw/
+data/processed/
+data/corrections/
+models/runs/
+*.csv
+
+# Poids modèles & gros fichiers
+*.pt
+*.pth
+*.onnx
+
+# Roboflow / zip
+*.zip
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Ignore all data
+data/

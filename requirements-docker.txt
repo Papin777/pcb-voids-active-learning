@@ -1,0 +1,12 @@
+streamlit==1.50.0
+ultralytics==8.3.222
+opencv-python-headless==4.12.0.88
+numpy==2.0.2
+pandas==2.3.3
+Pillow==11.3.0
+streamlit-drawable-canvas==0.9.3
+scipy==1.13.1
+matplotlib==3.9.4
+gitpython==3.1.45
+segment-anything==1.0
+torch==2.8.0
